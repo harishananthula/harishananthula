@@ -9,8 +9,23 @@
 ⚡ Goal: Become an AI Engineer
 ## 🏆 GitHub Trophies
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=harishananthula&theme=radical&no-frame=true&margin-w=15&margin-h=15"/> </div>
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harish_goud_066) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ananthula-harish-goud-a336492aa/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hh1833460@gmail.com) 
+
+## 🌐 Connect with Me
+
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ananthula-harish-goud-a336492aa/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/harish_goud_066" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="45" />
+  </a>
+  &nbsp;
+  <a href="mailto:hh183346@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" height="45"/>
+  </a>
+</p>
 
 # 💻 Tech Stack:
 

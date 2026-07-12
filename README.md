@@ -17,8 +17,13 @@
 
 </tr>
 </table>
+
 # ⚡ ANANTHULA HARISH GOUD ⚡
-👨‍💻 ABOUT ME
+👨‍💻 ABOUT ME  <p align="center">
+<a href="https://harishananthula.github.io/portfolio/" target="_blank">
+<img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-00F7FF?style=for-the-badge&logo=google-chrome&logoColor=black">
+</a>
+</p>
 
 </p>⚡ Passionate about Artificial Intelligence & Data Science
 ⚡ Building Machine Learning & Gen AI Projects

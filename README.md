@@ -19,10 +19,22 @@
 </table>
 
 # ⚡ ANANTHULA HARISH GOUD ⚡
-👨‍💻 ABOUT ME  <p align="center">
-<a href="https://harishananthula.github.io/portfolio/" target="_blank">
-<img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-00F7FF?style=for-the-badge&logo=google-chrome&logoColor=black">
+👨‍💻 ABOUT ME  <h2 align="center">🌐 Portfolio</h2>
+
+<p align="center">
+
+<a href="https://harishananthula.github.io/portfolio/">
+
+<img src="https://img.shields.io/badge/🚀%20Visit%20My%20Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00F7FF"/>
+
 </a>
+
+</p>
+
+<p align="center">
+
+<i>Explore my Machine Learning, Data Science & AI Projects</i>
+
 </p>
 
 </p>⚡ Passionate about Artificial Intelligence & Data Science
